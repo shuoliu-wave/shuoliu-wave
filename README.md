@@ -19,10 +19,10 @@
 
 | Repo                                | What’s inside                                                                                           |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [`basilisk-solitary-step`](#)       | 2D DNS of solitary waves over forward/backward steps; embed boundary + energy budget tools.                 |
+| [`basilisk-solitary-step`](#)       | 2D DNS of solitary waves over forward/backward steps; embed boundary + energy budget tools.             |
 | [`breaking-wave-oil-dispersion`](#) | Interface‑resolved simulations and post‑processing for dispersed‑oil mass distribution under varying σ. |
 | [`lagrangian-transport-slope`](#)   | Particle tracking pipelines for breaking strength vs. slope; drift metrics and visualization.           |
-| [`nearshore-lab-toolbox`](#)        | Reusable scripts: VOF cleaners, bubble tagging, spectra, PIV/ADV helpers, figure styles.                |
+| [`basilisk-toolbox`](#)             | Reusable scripts: VOF cleaners, bubble tagging, spectra, PIV/ADV helpers, figure styles.                |
 
 ## 📊 Datasets / benchmarks
 
