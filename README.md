@@ -16,13 +16,12 @@
 
 ## 🧪 Selected repositories
 
-
-| Repo                                                                                     | What’s inside                                                                                           |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [`basilisk-solitary-step`](https://github.com/shuoliu-wave/basilisk-solitary-step)       | 2D DNS of solitary waves over forward/backward steps; embed boundary + energy budget tools.             |
-| [`breaking-wave-oil-dispersion`](#)                                                      | Interface‑resolved simulations and post‑processing for dispersed‑oil mass distribution under varying σ. |
-| [`lagrangian-transport-slope`](#)                                                        | Particle tracking pipelines for breaking strength vs. slope; drift metrics and visualization.           |
-| [`basilisk-toolbox`](https://github.com/shuoliu-wave/basilisk-toolbox)                   | Reusable scripts: VOF cleaners, bubble tagging, spectra, PIV/ADV helpers, figure styles.                |
+| Repo                                                                                   | What’s inside                                                                                           |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [`basilisk-solitary-step`](https://github.com/shuoliu-wave/basilisk-solitary-step)     | 2D DNS of solitary waves over forward/backward steps; embed boundary + energy budget tools.             |
+| [`breaking-wave-oil-dispersion`](#)                                                    | Interface‑resolved simulations and post‑processing for dispersed‑oil mass distribution under varying σ. |
+| [`lagrangian-transport-slope`](#)                                                      | Particle tracking pipelines for breaking strength vs. slope; drift metrics and visualization.           |
+| [`basilisk-toolbox`](https://github.com/shuoliu-wave/basilisk-toolbox)                 | Reusable scripts: VOF cleaners, bubble tagging, spectra, PIV/ADV helpers, figure styles.                |
 
 ## 📊 Datasets / benchmarks
 
