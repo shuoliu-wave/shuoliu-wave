@@ -32,7 +32,7 @@
 ## 📚 Publications
 
 * Liu, S. et al., *Wave statistics and energy dissipation of shallow-water breaking waves in a tank with a level bottom[J]*. Journal of Fluid Mechanics, 2023, 975: A25 (https://doi.org/10.1017/jfm.2023.876).
-* Liu, S. et al., *Optimization of the drag coefficient in wave attenuation by submerged rigid and flexible vegetation based on experimental and numerical studies[J]*. Ocean Engineering, 2023, 285: 115382 (https://doi-org.libproxy1.nus.edu.sg/10.1016/j.oceaneng.2023.115382).
+* Liu, S. et al., *Optimization of the drag coefficient in wave attenuation by submerged rigid and flexible vegetation based on experimental and numerical studies[J]*. Ocean Engineering, 2023, 285: 115382 (https://doi.org/10.1016/j.oceaneng.2023.115382).
 
 
 ## 🛠️ Tech stack
